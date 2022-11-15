@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">LinearLayout</string>
+    <string name="app_name">Layouts</string>
+<!-- Task06.main   -->
+    <string name="layout01_button">LinearLayout01</string>
+    <string name="layout02_button">LinearLayout02</string>
+    <string name="table01_button">TABLELAYOUT01</string>
+    <string name="table02_button">TABLELAYOUT02</string>
+    <string name="constraint01_button">CONSTRAINTLAYOUT01</string>
+    <string name="constraint02_button">CONSTRAINTLAYOUT02</string>
+<!-- Task6.part1-->
+    <string name="Nombre">Tu Nombre Aquí</string>
+    <string name="seguidores">Followers</string>
+    <string name="siguiendo">Following</string>
+    <string name="estrellas">Estrellitas</string>
+    <string name="editar_perfil">EDIT PROFILE</string>
+<!--  Task6.part2  -->
+    <string name="asunto">Asunto</string>
+    <string name="contenido">Contenido</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Estrellita">Estrella</string>
 </resources>

@@ -32,7 +32,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="10dp"
-                android:text="Asunto" />
+                android:text="@string/asunto" />
 
             <TextView
                 android:id="@+id/contenido"
@@ -40,7 +40,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
                 android:layout_marginLeft="20dp"
-                android:text="Contenido" />
+                android:text="@string/contenido" />
 
         </LinearLayout>
 
@@ -58,7 +58,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="10dp"
-                android:text="Fecha" />
+                android:text="@string/Fecha" />
 
             <TextView
                 android:id="@+id/estrellita"
@@ -66,7 +66,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20dp"
                 android:layout_marginTop="10dp"
-                android:text="Estrellita" />
+                android:text="@string/Estrellita" />
 
         </LinearLayout>
 

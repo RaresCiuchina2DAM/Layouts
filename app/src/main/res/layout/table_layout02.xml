@@ -39,7 +39,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
-                        android:text="Asunto" />
+                        android:text="@string/asunto" />
 
                     <TextView
                         android:id="@+id/fecha"
@@ -47,7 +47,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:layout_marginLeft="150dp"
-                        android:text="Fecha" />
+                        android:text="@string/Fecha" />
                 </TableRow>
 
                 <TableRow
@@ -60,7 +60,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
-                        android:text="Contenido" />
+                        android:text="@string/contenido" />
 
                     <TextView
                         android:id="@+id/estrellita"
@@ -69,7 +69,7 @@
                         android:layout_marginTop="10dp"
                         android:layout_marginLeft="150dp"
 
-                        android:text="Estrellita" />
+                        android:text="@string/Estrellita" />
                 </TableRow>
 
             </TableLayout>
@@ -107,7 +107,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
-                        android:text="Asunto" />
+                        android:text="@string/asunto" />
 
                     <TextView
                         android:id="@+id/fecha1"
@@ -115,7 +115,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:layout_marginLeft="150dp"
-                        android:text="Fecha" />
+                        android:text="@string/Fecha" />
                 </TableRow>
 
                 <TableRow
@@ -128,7 +128,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="10dp"
-                        android:text="Contenido" />
+                        android:text="@string/contenido" />
 
                     <TextView
                         android:id="@+id/estrellita1"
@@ -137,7 +137,7 @@
                         android:layout_marginTop="10dp"
                         android:layout_marginLeft="150dp"
 
-                        android:text="Estrellita" />
+                        android:text="@string/Estrellita" />
                 </TableRow>
 
             </TableLayout>

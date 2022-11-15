@@ -35,7 +35,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="50dp"
-                android:text="NOMBRE" />
+                android:text="@string/Nombre" />
 
         </TableRow>
 
@@ -48,7 +48,7 @@
                 android:layout_height="match_parent"
                 android:layout_marginTop="20dp"
                 android:layout_marginLeft="50dp"
-                android:text="Edit Profile" />
+                android:text="@string/editar_perfil" />
         </TableRow>
 
         <TableRow
@@ -66,21 +66,21 @@
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
                     android:layout_marginLeft="50dp"
-                    android:text="Followers" />
+                    android:text="@string/seguidores" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
                     android:layout_marginLeft="60dp"
-                    android:text="Following" />
+                    android:text="@string/siguiendo" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
                     android:layout_marginLeft="60dp"
-                    android:text="Estrellita" />
+                    android:text="@string/Estrellita" />
             </LinearLayout>
         </TableRow>
     </TableLayout>

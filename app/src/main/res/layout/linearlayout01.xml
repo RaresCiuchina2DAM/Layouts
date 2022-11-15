@@ -19,13 +19,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
-        android:text="NOMBRE" />
+        android:text="@string/Nombre" />
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="Edit Profile" />
+        android:text="@string/editar_perfil" />
 
 
     <LinearLayout
@@ -38,21 +38,21 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:layout_marginLeft="50dp"
-            android:text="Followers" />
+            android:text="@string/seguidores" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:layout_marginLeft="60dp"
-            android:text="Following" />
+            android:text="@string/siguiendo" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:layout_marginLeft="60dp"
-            android:text="Estrellita" />
+            android:text="@string/Estrellita" />
     </LinearLayout>
 
 
