@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         constraintlayout1.setOnClickListener {
-            val intent = Intent(this, constraint_layout01::class.java)
+            val intent = Intent(this, Constraint_layout01::class.java)
             startActivity(intent)
         }
 

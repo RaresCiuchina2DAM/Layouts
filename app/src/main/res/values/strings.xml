@@ -7,6 +7,7 @@
     <string name="table02_button">TABLELAYOUT02</string>
     <string name="constraint01_button">CONSTRAINTLAYOUT01</string>
     <string name="constraint02_button">CONSTRAINTLAYOUT02</string>
+    <string name="elige">Elige, cual quieres ver.</string>
 <!-- Task6.part1-->
     <string name="Nombre">Tu Nombre Aquí</string>
     <string name="seguidores">Followers</string>
