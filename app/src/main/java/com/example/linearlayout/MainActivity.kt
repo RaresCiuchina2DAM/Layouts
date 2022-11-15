@@ -1,5 +1,6 @@
 package com.example.linearlayout
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -25,28 +26,33 @@ class MainActivity : AppCompatActivity() {
 
 
         Botonlayout1.setOnClickListener {
-            setContentView(R.layout.linearlayout01)
+            val intent = Intent(this, linear_layout01::class.java)
+            startActivity(intent)
         }
 
         Botonlayout2.setOnClickListener {
-            setContentView(R.layout.linearlayout2)
+            val intent = Intent(this, linear_layout02::class.java)
+            startActivity(intent)
         }
 
         tablelayout1.setOnClickListener {
-            setContentView(R.layout.table_layout01)
-
+            val intent = Intent(this, table_layout01::class.java)
+            startActivity(intent)
         }
 
         tablelayout2.setOnClickListener {
-            setContentView(R.layout.table_layout02)
+            val intent = Intent(this, table_layout02::class.java)
+            startActivity(intent)
         }
 
         constraintlayout1.setOnClickListener {
-            setContentView(R.layout.constraint_layout01)
+            val intent = Intent(this, constraint_layout01::class.java)
+            startActivity(intent)
         }
 
         constraintlayout2.setOnClickListener {
-            setContentView(R.layout.constraint_layout02)
+            val intent = Intent(this, constraint_layout02::class.java)
+            startActivity(intent)
         }
 
 
