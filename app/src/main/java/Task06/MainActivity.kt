@@ -1,9 +1,10 @@
-package com.example.linearlayout
+package Task06
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.example.linearlayout.R
 
 private lateinit var Botonlayout1: Button
 private lateinit var Botonlayout2: Button

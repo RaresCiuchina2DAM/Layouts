@@ -13,49 +13,49 @@
         android:theme="@style/Theme.LinearLayout"
         tools:targetApi="31">
         <activity
-            android:name=".table_layout02"
+            android:name="Task06.table_layout02"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".table_layout01"
+            android:name="Task06.table_layout01"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".linear_layout02"
+            android:name="Task06.linear_layout02"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".linear_layout01"
+            android:name="Task06.linear_layout01"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".constraint_layout02"
+            android:name="Task06.constraint_layout02"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".constraint_layout01"
+            android:name="Task06.constraint_layout01"
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="Task06.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
